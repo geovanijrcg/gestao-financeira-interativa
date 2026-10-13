@@ -41,7 +41,7 @@ O projeto poderá ser publicado gratuitamente pelo GitHub Pages.
 
 Após a publicação, o link de acesso será disponibilizado nesta seção.
 
-**Link do projeto:** _adicione aqui a URL do site publicado._
+**Link do projeto:** https://geovanijrcg.github.io/gestao-financeira-interativa/
 
 ## 🧮 Calculadora financeira
 
